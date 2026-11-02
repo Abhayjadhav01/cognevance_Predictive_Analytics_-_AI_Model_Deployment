@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: retail-revenue-forecasting
+Version: 1.0.0
+Summary: Local monthly retail revenue forecasting pipeline
+Requires-Python: >=3.10
